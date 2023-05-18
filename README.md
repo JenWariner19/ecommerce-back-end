@@ -25,7 +25,7 @@ Open the terminal, in the command line type - npm run seed - to seed the databas
 Next, type - npm start - to run the program.<br>
 Once the program is running, open Insomnia. Using Insomnia, you can run your api routes GET, POST, PUT, and DELETE. <br>
 ![Insomnia](./assets/insomnia.png)<br><br>
-For an example of the process, please view this video: [Demo Video](https://drive.google.com/file/d/1iaMgh0rQVVaPnNyGPcfTTTc3WdaMckrf/view)
+For an example of the process, please view this video: [Demo Video](https://drive.google.com/file/d/1Cytydfev2VDM0u0y8Th1lTb319MxvHPV/view)
 
 ## Contributing
 N/A
